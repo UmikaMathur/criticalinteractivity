@@ -1,0 +1,50 @@
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+}
+
+h1 {
+  color: red;
+  padding: 20px 0px 10px 0px;
+}
+
+a {
+color: #69CBBB;
+text-decoration: none;
+}
+
+div.titletext {
+  font-size: 64px;
+  color: red;
+}
+
+table,th,td {
+  border: 1px solid black
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
